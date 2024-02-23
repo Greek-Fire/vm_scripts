@@ -6,7 +6,7 @@ import json
 # Configuration for vCenter access
 vcenter_ip = 'vcenter.lou.land'
 username = 'administrator@lou.land'
-password = 'Gr33k*G0d7'
+password = ''
 
 def collect_datacenter_info(service_instance):
     data = []
